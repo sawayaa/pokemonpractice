@@ -1,4 +1,4 @@
-# pokemonpratice
+# pokemonpractice
 Practicing coding by trying to find the best team in Pokemon Go.
 
 Will continue to add as I continue this personal project.
